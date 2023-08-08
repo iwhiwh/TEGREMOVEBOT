@@ -22,10 +22,10 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '2062193742:AAEQbg5PG24kRkUpxnwhhXs90q-0P_Z
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/94c74580a918cb9e6b18e.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/94c74580a918cb9e6b18e.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/94c74580a918cb9e6b18e.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/229b746a9efacb4245b53.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/f9c8cf728b82ce964ca73.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/f9c8cf728b82ce964ca73.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/f9c8cf728b82ce964ca73.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/f9c8cf728b82ce964ca73.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '794968418').split()]
@@ -57,13 +57,13 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 PORT = environ.get("PORT", "8080")
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/filmy_rog')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/filmy_men')
-MSG_ALRT = environ.get('MSG_ALRT', 'Thanks To Using Me 😇')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Happy_Hour_Hindi')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/The_Happy_Hour_Hindi')
+MSG_ALRT = environ.get('MSG_ALRT', '👉 परेशान मत कर BSDK....🤬')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001880454503'))
 REQUEST_LOGS = int(environ.get('REQUEST_LOGS', '-1001935569228'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'filmymenchat')
-P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Happy_Hour_Hindi')
+P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
