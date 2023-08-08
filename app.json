@@ -15,35 +15,42 @@
       "index",
       "inline"
     ],
-    "website": "https://t.me/MrperfectOffcial_bot",
-    "repository": "https://t.me/MrperfectOffcial_bot",
+    "website": "https://t.me/The_Happy_Hour_Hindi",
+    "repository": "https://t.me/Happy_Hour_Friends",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
+"value":"6461931275:AAFvG5VI5leCMiEsQtcPSu__R8EKhd0Q_18",
             "required": true
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
+"value":"24579842",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
+"value":"ec6105bf1a02c98f837300546dc341d1",
             "required": true
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+"value":"-1001867538832",
             "required": false
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
+"value":"1991522624",
             "required": true
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
+"value":"https://telegra.ph/file/f9c8cf728b82ce964ca73.jpg",
             "required": false
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+"value":"-1001805009030",
             "required": true
         },
         "AUTH_USERS": {
@@ -56,10 +63,12 @@
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+"value":"mongodb+srv://happythehour:skumar(2006)@cluster0.wttyshn.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+"value":"cluster0",
             "required": false
         },
         "COLLECTION_NAME": {
