@@ -61,7 +61,7 @@ async def pm_text(bot, message):
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
-    await message.reply_text("<b>🎗 If You Want Any Movie, Series Please Join Our Request Groups \n \n 🏆 Request Group: [Click Here 🎗](https://t.me/Filmy_Rog)</b>")
+    await message.reply_text("<b>😉 If You Want Any Movie, Series Please Join Our Request Groups \n \n 🇮🇳 Request Group: [Click Here ❤️](https://t.me/Happy_Hour_Friends)</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
         text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nID : {user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
@@ -566,7 +566,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                              InlineKeyboardButton('ᴊᴏɪɴ ғᴏʀ ᴍᴏʀᴇ 🎬', url='https://t.me/Filmy_Men')
+                              InlineKeyboardButton('ᴊᴏɪɴ ғᴏʀ ᴍᴏʀᴇ 🎬', url='https://t.me/The_Happy_Hour_Hindi')
                                                   
                              ]
                             ]
