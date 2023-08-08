@@ -130,9 +130,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 亗 THE SAN∂MAN 
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Syrus_143_Hpy
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Syrus_143_hpy'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 🅰𝙨𝙝 𝙆𝙚𝙩𝙘𝙝𝙪𝙢
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Mister_Ash
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Mister_Ash'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 Always Request in Correct Spelling... check Spellings on Google ...
@@ -170,20 +170,15 @@ If You Still Don't Get Movies then Owner Will Update Within 12Hour"""
 
 𝗡𝗮𝗺𝗲 <b>: {}</b>
 
-𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
+𝗠𝗲𝘀𝘀𝗮𝗴𝗲 : <code>{}</code>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<a href="https://t.me/The_Happy_Hour_Hindi"><b>{file_name}</b></a>
 
-╔═ ❁ ════════╗
+════════※ ·❆· ※════════
+<a href="https://t.me/Happy_Hour_Friends"><b>ㅤㅤ▫️Mᴏᴠɪᴇ Rᴇǫ Gʀᴏᴜᴘ▫️</b></a>
+════════※ ·❆· ※════════"""
 
-♡ <a href=https://t.me/Filmy_Men> @Filmy_Men</a>
-
-♡ <a href=https://t.me/Filmy_Rog>@Filmy_Rog </a>
-
-╚════════ ❁ ═╝</b>"""
-
-    IMDB_TEMPLATE_TXT = """
-<b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/HOW_TO_DOWNLOADDS/4) </i></b>"""
+    IMDB_TEMPLATE_TXT = """<b>🏷 Title: <a href={url}>{title}</a>\n🎭 Genres: {genres}\n📆 Year: <a href={url}/releaseinfo>{year}</a>\n🌟 Rating: <a href={url}/ratings>{rating}</a> | 10 \n\n<a href=https://t.me/The_Happy_Hour_Hindi>❤️ Please Share & Support ❤️</a>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
