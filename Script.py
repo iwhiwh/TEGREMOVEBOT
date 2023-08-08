@@ -4,21 +4,21 @@ class script(object):
 ɪ ᴀᴍ ᴅʀᴇᴀᴍ, ɴᴏᴛ ᴛʜᴀᴛ ʏᴏᴜᴛᴜʙᴇʀ\n\n ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs - ꜱᴇʀɪᴇꜱ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ😌\n\n 👇 ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴀʙᴏᴠᴇ ʟɪɴᴋ 👇"""
 
     HELP_TXT = """<b>Tᴏ Sᴇᴛ Cᴜsᴛᴏᴍ Sʜᴏʀᴛᴇɴᴇʀ
-Cᴏɴᴛᴀᴄᴛ- @Syrus_143_Hpy
+Cᴏɴᴛᴀᴄᴛ- @Mister_Ash
 
 Cʜᴇᴄᴋ Tʜᴇꜱᴇ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs 👇.</b>"""
 
-    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/Syrus_143_hpy><b>亗 THE SAN∂MAN </b></a>\n
-📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org><b>ᴘʏᴛʜᴏɴ</b></a>\n
-📚 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=vultr.com><b>ᴠᴘꜱ</b></a>\n
-© ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/Filmy_Men><b>ғɪʟᴍʏ ᴍᴇɴ</b></a>\n
+    ABOUT_TXT = """<b><i>👨‍💻 ᴏᴡɴᴇʀ : <a href=https://t.me/Mister_Ash><b>🅰𝙨𝙝 𝙆𝙚𝙩𝙘𝙝𝙪𝙢</b></a>\n
+📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://t.me/Mister_Ash><b>ʜɪɴᴅɪ</b></a>\n
+📚 ʟɪʙʀᴀʀʏ : <a href=https://t.me/The_Happy_Hour_Hindi><b>ᴘʜʏꜱɪᴄꜱ</b></a>\n
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : ɴᴏ ɪᴅᴇᴀ\n
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/The_Happy_Hour_Hindi><b>ᴛʜᴇ ʜᴀᴘᴘʏ ʜᴏᴜʀ</b></a>\n
 """
 
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
     
 » I will Create One Bot For You<b>
-» Contact @Syrus_143_Hpy<b>"""
+» Contact @Mister_Ash<b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -39,7 +39,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/RolexMoviesOX)</code>
+<code>[Button Text](buttonurl:https://t.me/The_Happy_Hours)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -100,7 +100,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 
-★ Mᴀɪɴᴛᴀɪɴᴇʀ: <a href=https://t.me/Syrus_143_hpy><b>亗 THE SAN∂MAN</b></a>"""
+★ Mᴀɪɴᴛᴀɪɴᴇʀ: <a href=https://t.me/Mister_Ash><b>🅰𝙨𝙝 𝙆𝙚𝙩𝙘𝙝𝙪𝙢</b></a>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
