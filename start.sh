@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/IamEasyIce/NataliyaH.git /NataliyaH
+  git clone https://github.com/iwhiwh/TEGREMOVEBOT /TEGREMOVEBOT
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /NataliyaH
+  git clone $UPSTREAM_REPO /TEGREMOVEBOT
 fi
-cd /NataliyaH
+cd /TEGREMOVEBOT
 pip3 install -U -r requirements.txt
-echo "Starting Nataliya...."
+echo "Starting TEGREMOVEBOT...."
 python3 bot.py
