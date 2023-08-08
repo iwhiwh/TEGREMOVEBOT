@@ -13,8 +13,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://www.herokucdn.com/deploy? Template=https://github.com/iwhiwh/TEGREMOVEBOT">
+  <img src="https://www.herokucdn.com/deploy? Template=https://github.com/iwhiwh/TEGREMOVEBOT>
 </a>
 </p>
 </details>
